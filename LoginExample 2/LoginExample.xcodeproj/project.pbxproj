@@ -37,6 +37,7 @@
 		80B6ED322D8119840023B46E /* AppleAuth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAuth.swift; sourceTree = "<group>"; };
 		80B6ED342D81198D0023B46E /* GoogleAuth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleAuth.swift; sourceTree = "<group>"; };
 		80B6ED362D81199D0023B46E /* SignInPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInPageView.swift; sourceTree = "<group>"; };
+		80B6ED472D82120D0023B46E /* LoginExample.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = LoginExample.entitlements; sourceTree = SOURCE_ROOT; };
 		80B6ED5F2D8267CE0023B46E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				80B6ED5F2D8267CE0023B46E /* Info.plist */,
+				80B6ED472D82120D0023B46E /* LoginExample.entitlements */,
 				80B6ED1E2D81191E0023B46E /* LoginExampleApp.swift */,
 				80B6ED202D81191E0023B46E /* ContentView.swift */,
 				80B6ED2F2D8119640023B46E /* SignInPage */,
